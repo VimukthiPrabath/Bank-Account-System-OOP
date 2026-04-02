@@ -19,22 +19,3 @@ A professional backend Python application built to demonstrate advanced **Object
    ```bash
    python bank_system.py
 
-📊 Sample Output
-Vimukthi account eke balance ek Rs:5000
-Sade account eke balance ek Rs:1000
-
---- Transactions ---
-Vimukthi Rs : 5000 k thenpath kara. Den balace eka:10000
-Vimukthi Acconut eken Rs:6000 withdraw kara. den thiayana balance eka Rs:4000
-Vimukthi account eke balance ek Rs:4000
-
---- Transfer Money ---
-Vimukthi Acconut eken Rs:3000 withdraw kara. den thiayana balance eka Rs:1000
-Sade Rs : 3000 k thenpath kara. Den balace eka:4000
-
-transaction History | Vimukthi |
-- Vimukthi account created with initial balance:  Rs: 5000
-- Deposit amount Rs:5000
-- Withdraw Rs:6000
-- Withdraw Rs:3000
-- Transferred Rs:3000 to Sade
